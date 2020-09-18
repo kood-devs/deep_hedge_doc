@@ -1,0 +1,42 @@
+\documentclass[autodetect-engine, dvipdfmx-if-dvi, ja=standard]{ltjsarticle}
+
+\usepackage{cite}
+\usepackage{color}
+
+\begin{document}
+
+\section{不完備市場におけるDeep Hedgingの応用}
+近年、機械学習の分野において、深層学習の有効性が注目されており、
+ファイナンス分野における深層学習の応用にも同様に注目が集まっている。
+ファイナンス分野における深層学習の主要な適用例の一つに、金融派生商品の最適ヘッジ戦略が挙げられる。
+同分野については多くの先行研究があるが（先行研究の体系については、例えば\cite{ruf2020neural}等を参照）、
+本稿では、金融派生商品の最適ヘッジ戦略に深層学習を適用した研究一般を概観した後に、
+より現実的な設定として、不完備市場における金融派生商品の最適ヘッジ戦略を扱った研究を詳細にサーベイする。
+
+\subsection{文献メモ}
+\subsubsection{深層学習を用いた最適ヘッジ戦略}
+
+深層学習を用いた最適ヘッジ戦略については、古くから多くの研究がなされてきた。
+\cite{hutchinson1994nonparametric}は、ノン・パラメトリックなヘッジ手法として
+ニューラルネットワークに依拠したヘッジ手法を提示した嚆矢的研究である。
+同研究では、ニューラルネットワークを用いたBlack-Scholesオプション価格の推定手法を提示している。
+
+より最近の研究として、\cite{buehler2019deepA,buehler2019deepB}は、トレーダーが一般に用いる
+情報（価格、売買シグナル、ニュース、過去の投資情報等）を特徴量に持つニューラルネットワークとして、
+オプションのヘッジ戦略を定式化した。
+同研究は、モデルの出力を取引量にしている点、損失関数に凸なリスク測度（convex risk measure）を使用している点、
+摩擦のある市場に対する具体的な適用方法を明示している点が特徴である。
+
+\cite{ruf2020hedging}も同様に深層学習を用いたヘッジ戦略を提示している。
+本研究は、DeltaとVegaの両方に着目してヘッジ戦略を構築しているほか、
+Data leakageを回避する観点での学習データの扱いについても研究している。
+
+% \subsubsection{深層学習以外による最適ヘッジ戦略}
+% Soner, Shreve and Cvitanic (1995)は、比例取引コスト（proportional trainsaction costs）が
+% 存在するBlack-Scholesモデルにおいてのヘッジ戦略の導出を行っている。
+% このほか、Roger and Singh (2010)、Bank, Soner and Voß (2015, 2017)...
+
+\bibliography{reference.bib} 
+\bibliographystyle{jplain}
+
+\end{document}

@@ -1,0 +1,31 @@
+\begin{thebibliography}{1}
+
+\bibitem{buehler2019deepA}
+Hans Buehler, Lukas Gonon, Josef Teichmann, and Ben Wood.
+\newblock Deep hedging.
+\newblock {\em Quantitative Finance}, Vol.~19, No.~8, pp. 1271--1291, 2019.
+
+\bibitem{buehler2019deepB}
+Hans Buehler, Lukas Gonon, Josef Teichmann, Ben Wood, Baranidharan Mohan, and
+  Jonathan Kochems.
+\newblock Deep hedging: hedging derivatives under generic market frictions
+  using reinforcement learning.
+\newblock {\em Swiss Finance Institute Research Paper}, No. 19-80, 2019.
+
+\bibitem{hutchinson1994nonparametric}
+James~M Hutchinson, Andrew~W Lo, and Tomaso Poggio.
+\newblock A nonparametric approach to pricing and hedging derivative securities
+  via learning networks.
+\newblock {\em The Journal of Finance}, Vol.~49, No.~3, pp. 851--889, 1994.
+
+\bibitem{ruf2020hedging}
+Johannes Ruf and Weiguan Wang.
+\newblock Hedging with neural networks.
+\newblock {\em Available at SSRN}, 2020.
+
+\bibitem{ruf2020neural}
+Johannes Ruf and Weiguan Wang.
+\newblock Neural networks for option pricing and hedging: a literature review.
+\newblock {\em Journal of Computational Finance, Forthcoming}, 2020.
+
+\end{thebibliography}
