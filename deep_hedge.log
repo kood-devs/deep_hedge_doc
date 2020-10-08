@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2020.9.18)  6 OCT 2020 00:28
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2020.9.18)  9 OCT 2020 00:32
  restricted system commands enabled.
 **deep_hedge
 (./deep_hedge.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.211 seconds
+luaotfload | main : initialization completed in 0.193 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/luatex/luatexja/ltjsarticle.cls
 Document Class: ltjsarticle 2018/01/14 ltjsclasses 
@@ -422,30 +422,30 @@ LaTeX Warning: Unused global option(s):
 (./deep_hedge.aux)
 \openout1 = deep_hedge.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for JY3/mc/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for JT3/mc/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for JY3/mc/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for JT3/mc/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
 
 (/usr/share/texlive/texmf-dist/tex/luatex/luatexja/patches/lltjp-stfloats.sty
 Package: lltjp-stfloats 2017/05/05 Patch to stfloats for LuaTeX-ja
 )
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 10.
+LaTeX Info: Redefining \selectfont on input line 9.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -463,38 +463,42 @@ LaTeX Info: Redefining \selectfont on input line 10.
 )(load luc: /home/kodai/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lm
 roman17-regular.luc)
 LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
-(Font)              scaled to size 15.97903pt on input line 11.
+(Font)              scaled to size 15.97903pt on input line 10.
 luaotfload | aux : font no 24 (nil) does not define feature vrt2 for script dflt
  with language dflt
 luaotfload | aux : no font with id 24
 LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 15.97903pt on input line 11.
+(Font)              scaled to size 15.97903pt on input line 10.
 (load luc: /home/kodai/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lmr
 oman12-regular.luc)
 LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
-(Font)              scaled to size 11.09656pt on input line 11.
+(Font)              scaled to size 11.09656pt on input line 10.
 luaotfload | aux : font no 27 (nil) does not define feature vrt2 for script dflt
  with language dflt
 luaotfload | aux : no font with id 27
 LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 11.09656pt on input line 11.
+(Font)              scaled to size 11.09656pt on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 11.
+(Font)              <12> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 11.
+(Font)              <8> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 11.
+(Font)              <6> on input line 10.
 LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 5.54828pt on input line 11.
+(Font)              scaled to size 5.54828pt on input line 10.
+
+
+LaTeX Warning: No \author given.
+
 LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
-(Font)              scaled to size 13.31586pt on input line 13.
+(Font)              scaled to size 13.31586pt on input line 12.
 luaotfload | aux : font no 41 (nil) does not define feature vrt2 for script dflt
  with language dflt
 luaotfload | aux : no font with id 41
 LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
-(Font)              scaled to size 13.31586pt on input line 13.
+(Font)              scaled to size 13.31586pt on input line 12.
 LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
-(Font)              scaled to size 13.31586pt on input line 13.
+(Font)              scaled to size 13.31586pt on input line 12.
 (load luc: /home/kodai/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/fon
 ts-japanese-gothic.luc)(load cache: /home/kodai/.texlive2017/texmf-var/luatexja/
 extra_ipaexgothic.luc)
@@ -502,16 +506,16 @@ luaotfload | aux : font no 43 (nil) does not define feature vrt2 for script dflt
  with language dflt
 luaotfload | aux : no font with id 43
 LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
-(Font)              scaled to size 13.31586pt on input line 13.
+(Font)              scaled to size 13.31586pt on input line 12.
 (load luc: /home/kodai/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl/lms
 ans12-regular.luc)
 LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
-(Font)              scaled to size 11.09656pt on input line 47.
+(Font)              scaled to size 11.09656pt on input line 45.
 luaotfload | aux : font no 46 (nil) does not define feature vrt2 for script dflt
  with language dflt
 luaotfload | aux : no font with id 46
 LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
-(Font)              scaled to size 11.09656pt on input line 47.
+(Font)              scaled to size 11.09656pt on input line 45.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./deep_hedge.bbl
@@ -544,22 +548,22 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Here is how much of LuaTeX's memory you used:
  3106 strings out of 494480
- 195322,128383 words of node,token memory allocated
- 6095 words of node memory still in use:
-   6 hlist, 1 vlist, 4 rule, 5 glue, 79 kern, 2170 attribute, 179 glue_spec, 116
+ 195325,128383 words of node,token memory allocated
+ 6105 words of node memory still in use:
+   6 hlist, 1 vlist, 4 rule, 5 glue, 79 kern, 2170 attribute, 181 glue_spec, 116
  attribute_list, 1 write, 9 user_defined nodes
-   avail lists: 1:13,2:54266,3:314,4:177,5:186,6:3584,7:2199,8:1666,9:220,10:24,
-11:302
+   avail lists: 1:11,2:56528,3:298,4:179,5:188,6:3686,7:2101,8:1602,9:206,10:24,
+11:306
  7038 multiletter control sequences out of 65536+600000
  51 fonts using 38440063 bytes
- 51i,6n,43p,908b,257s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 51i,6n,43p,908b,263s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/share/texmf/fonts/opentype/public/lm/lmroman10-italic.otf></usr/share/texm
 f/fonts/opentype/public/lm/lmroman10-regular.otf></usr/share/fonts/truetype/font
 s-japanese-gothic.ttf></usr/share/texmf/fonts/opentype/public/lm/lmsans12-regula
 r.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman12-regular.otf></usr/sha
 re/texmf/fonts/opentype/public/lm/lmroman17-regular.otf></usr/share/fonts/truety
 pe/fonts-japanese-mincho.ttf>
-Output written on deep_hedge.pdf (2 pages, 323461 bytes).
+Output written on deep_hedge.pdf (2 pages, 322555 bytes).
 
 PDF statistics: 60 PDF objects out of 1000 (max. 8388607)
  34 compressed objects within 1 object stream
