@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{buehler2019deepA}
 Hans Buehler, Lukas Gonon, Josef Teichmann, and Ben Wood.
@@ -12,11 +12,34 @@ Hans Buehler, Lukas Gonon, Josef Teichmann, Ben Wood, Baranidharan Mohan, and
   using reinforcement learning.
 \newblock {\em Swiss Finance Institute Research Paper}, No. 19-80, 2019.
 
+\bibitem{du2020deep}
+Jiayi Du, Muyang Jin, Petter~N Kolm, Gordon Ritter, Yixuan Wang, and Bofei
+  Zhang.
+\newblock Deep reinforcement learning for option replication and hedging.
+\newblock {\em The Journal of Financial Data Science}, 2020.
+
+\bibitem{gendreau2019cvar}
+Brian Gendreau, Yong Jin, Mahendrarajah Nimalendran, and Xiaolong Zhong.
+\newblock Cvar-lasso enhanced index replication (cleir): outperforming by
+  minimizing downside risk.
+\newblock {\em Applied Economics}, Vol.~51, No.~52, pp. 5637--5651, 2019.
+
 \bibitem{hutchinson1994nonparametric}
 James~M Hutchinson, Andrew~W Lo, and Tomaso Poggio.
 \newblock A nonparametric approach to pricing and hedging derivative securities
   via learning networks.
 \newblock {\em The Journal of Finance}, Vol.~49, No.~3, pp. 851--889, 1994.
+
+\bibitem{kolm2019dynamic}
+Petter~N Kolm and Gordon Ritter.
+\newblock Dynamic replication and hedging: A reinforcement learning approach.
+\newblock {\em The Journal of Financial Data Science}, Vol.~1, No.~1, pp.
+  159--171, 2019.
+
+\bibitem{malliaris1993neural}
+Mary Malliaris and Linda Salchenberger.
+\newblock A neural network model for estimating option prices.
+\newblock {\em Applied Intelligence}, Vol.~3, No.~3, pp. 193--206, 1993.
 
 \bibitem{ruf2020hedging}
 Johannes Ruf and Weiguan Wang.
@@ -27,5 +50,10 @@ Johannes Ruf and Weiguan Wang.
 Johannes Ruf and Weiguan Wang.
 \newblock Neural networks for option pricing and hedging: a literature review.
 \newblock {\em Journal of Computational Finance, Forthcoming}, 2020.
+
+\bibitem{wiese2019deep}
+Magnus Wiese, Lianjun Bai, Ben Wood, and Hans Buehler.
+\newblock Deep hedging: learning to simulate equity option markets.
+\newblock {\em Available at SSRN 3470756}, 2019.
 
 \end{thebibliography}
